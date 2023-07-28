@@ -1,6 +1,6 @@
-# Audiophile End-To-End ELT Pipeline
+# End-To-End ELT Pipeline
 
-Pipeline that extracts data from [Crinacle's](https://crinacle.com/) Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard.
+The pipeline that extracts data from [Crinacle's](https://crinacle.com/) Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard.
 
 ## Architecture
 
